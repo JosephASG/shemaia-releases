@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1d866ea332d2818b1d175edefeb916323d1c46b177840ed94f20b97f3521e5d3
-size 331
+version: 1.1.4
+files:
+  - url: shemaia-wispr.exe
+    sha512: EhNqBEQV1YLDYmbEBWuZWvXlBYPevbGeanrdUjDWFaWnHsQNZPsZDC9Y93iN8qtTpRLrAShgMlIHCf+hUrl5tQ==
+    size: 111020595
+path: shemaia-wispr.exe
+sha512: EhNqBEQV1YLDYmbEBWuZWvXlBYPevbGeanrdUjDWFaWnHsQNZPsZDC9Y93iN8qtTpRLrAShgMlIHCf+hUrl5tQ==
+releaseDate: '2025-05-30T13:04:12.026Z'
